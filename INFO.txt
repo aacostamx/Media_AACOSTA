@@ -1,0 +1,7 @@
+Fuentes:
+PT Sans Regular
+PT Sans Bold
+
+Colores:
+Azul: #6797be
+Verde: #b6c387
